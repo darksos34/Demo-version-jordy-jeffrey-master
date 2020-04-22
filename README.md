@@ -10,7 +10,7 @@ Readme will be added end of April.
 
 ## Files
 
-## JWT token authenticate
+## JWT token authentication
 
 ## Login
 
