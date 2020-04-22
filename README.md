@@ -12,6 +12,10 @@ Readme will be added end of April.
 
 ## JWT token authentication
 
+## Multipart Spring Boot File servers for avatar 
+UploadFiles
+DownloadFiles
+
 ## Login
 
 ## Profile
@@ -26,7 +30,4 @@ Readme will be added end of April.
 
 
 
-## Multipart Spring Boot File servers for avatar 
 
-UploadFiles
-DownloadFiles
