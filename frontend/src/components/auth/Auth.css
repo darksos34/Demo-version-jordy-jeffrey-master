@@ -1,0 +1,20 @@
+.btn-purple {
+    border: 1px solid darkmagenta;
+    color: white;
+    background-color: darkmagenta;
+}
+
+.btn-purple:hover {
+    color: white;
+    background-color: darkviolet;
+}
+
+.btn-purple:active {
+    color: white;
+    background-color: magenta;
+    box-shadow: 0px 0px 5px darkmagenta;
+}
+
+h2 {
+    text-align: center;
+}
