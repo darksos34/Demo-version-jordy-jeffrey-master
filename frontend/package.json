@@ -21,7 +21,8 @@
     "react-scripts": "3.4.1",
     "react-validation": "^3.0.7",
     "typescript": "^3.8.3",
-    "validator": "^13.0.0"
+    "validator": "^13.0.0",
+    "websocket-extensions": "^0.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
